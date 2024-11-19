@@ -21,7 +21,9 @@ password.addEventListener("mouseenter", () => {
 });
 let submition=document.getElementById("sub")
 submition.addEventListener("click", () => {
-         localStorage.setItem(email,password,fn)
+         localStorage.setItem("email",email)
+         localStorage.setItem("password",password)
+         localStorage.setItem("fullname",fn)
 
 });
 
