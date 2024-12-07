@@ -8,13 +8,13 @@
     padding: 20px;
     width: 1000px;
     height: 500px;
-    background-color: rgb(189, 199, 144);
-    color: rgb(20, 61, 48);
+    background-color: rgb(25, 41, 85);
+    color: rgb(141, 205, 224);
     font-family: "Mali", serif;
     font-weight: 500;
     font-style: normal;
     border-radius: 15px;
-    border:rgb(189, 199, 144) solid 3px;
+    border:rgb(144, 199, 196) solid 3px;
 }
 form{
     display: flex;
@@ -28,15 +28,15 @@ form{
 }
 input{
     padding: 15px;
-    border: 2px solid rgb(122, 177, 122);
+    border: 2px solid rgb(15, 97, 204);
     outline: none;
     border-radius: 10px;
 }
 button{
     color: white;
-    background-color: rgb(20, 61, 48);
+    background-color: rgb(20, 24, 61);
     padding: 15px;
-    border: 2px solid  rgb(20, 61, 48);
+    border: 2px solid  rgb(39, 106, 122);
     border-radius: 10px;
     width: 120px;
     outline: none;
@@ -46,7 +46,7 @@ button{
 }
 button:hover{
     background-color: transparent;
-    color: rgb(20, 61, 48);
+    color: rgb(43, 146, 160);
    
 
 }
